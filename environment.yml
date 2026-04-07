@@ -1,0 +1,13 @@
+name: intel_tsp_compare
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - imageio
+  - tqdm

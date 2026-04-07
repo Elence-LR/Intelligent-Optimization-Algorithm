@@ -1,0 +1,5 @@
+algorithm,best_distance,initial_best,improvement,iterations
+ACO,467.123,518.6448,51.5218,120
+GA,586.7944,1295.1544,708.36,120
+PSO,782.4357,1264.867,482.4313,120
+DE,801.5964,1258.8685,457.2721,120
